@@ -107,7 +107,9 @@ TABULATION:
 
 
 Calculation
-![calculation for 1 exp](https://github.com/user-attachments/assets/ffbeafbc-a9bb-4a72-ba8f-4f23e7a10458)
+ma= am/ac =5.1 /10.2 
+ma =(emax -e min) (e max +e min) =9.8/20.4
+=0.48
 
 
 
