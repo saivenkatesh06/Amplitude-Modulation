@@ -100,7 +100,8 @@ Output Waveform
 
 
 TABULATION:
-![tab for 1 exp](https://github.com/user-attachments/assets/d82bfbeb-b3b8-4e8d-9a6f-ddd563b10d4c)
+<img width="1068" height="1600" alt="image" src="https://github.com/user-attachments/assets/9fb8371f-5478-4fdd-84b1-92edb4c1cde1" />
+
 
 
 
